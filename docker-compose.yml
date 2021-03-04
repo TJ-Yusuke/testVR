@@ -8,15 +8,3 @@ services:
     volumes:
     - ./src:/usr/share/nginx/html
     - ./nginx.conf:/etc/nginx/nginx.conf
-
-
-
-
-
-#  web:
-#    image: nginx:alpine
-#    ports:
-#    - 8888:80
-#    privileged: true
-#    volumes:
-#    - ".src/:usr/share/nginx/html"
