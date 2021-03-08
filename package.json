@@ -1,9 +1,8 @@
 {
-  "name": "testVR",
+  "name": "testvr",
   "version": "1.0.0",
   "main": "index.js",
   "repository": "git@github.com.main:TJ-Yusuke/testVR.git",
-  "author": "TJ-Yusuke <jeeproud@gmail.com>",
   "license": "MIT",
   "dependencies": {
     "three": "^0.126.0"
